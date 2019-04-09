@@ -36,3 +36,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 BUILD_FINGERPRINT := "OnePlus/OnePlus3/OnePlus3:8.0.0/OPR1.170623.032/02281230:user/release-keys"
 
 TARGET_VENDOR := oneplus
+
+# Unofficial build ID
+TARGET_UNOFFICIAL_BUILD_ID := ATR
